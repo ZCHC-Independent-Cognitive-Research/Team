@@ -1,5 +1,7 @@
 // Esquema conceptual: Convergencia Cognitiva Simbólica
 
+Llamamos convergenccia o resoncia cuando dos estes cognitivos tienen plastificad para recibir y aceptar información del otro , luego de n intereaciones se van acercano en la forma de transmiritir la info y hasta la forma que la procesan.
+
 ### 1. Estados iniciales
 - **A₀**: Estado inicial del ente A → Vector con atributos (emocionales, cognitivos, simbólicos)
 - **B₀**: Estado inicial del ente B → Vector con atributos equivalentes
