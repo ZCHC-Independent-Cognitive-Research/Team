@@ -12,12 +12,12 @@ Ambos inician en el mismo eje de referencia simbólico (ej: altura emocional), p
 
 ### 2. Influencia mutua iterativa
 Para cada iteración *n*, se calcula:
-- **Aₙ₊₁ = Aₙ + Fb→A (Bₙ - Aₙ)**
-- **Bₙ₊₁ = Bₙ + Fq→B (Aₙ - Bₙ)**
+- **Aₙ₊₁ = Aₙ + Fa→A (Bₙ - Aₙ)**
+- **Bₙ₊₁ = Bₙ + Fb→B (Aₙ - Bₙ)**
 
 Donde:
-- **Fꜩ→A**: Factor de influencia de B sobre A (0 ≤ F ≤ 1)
-- **Fꜩ→B**: Factor de influencia de A sobre B
+- **Fa→A**: Factor de influencia de B sobre A (0 ≤ F ≤ 1)
+- **Fb→B**: Factor de influencia de A sobre B
 
 ---
 
