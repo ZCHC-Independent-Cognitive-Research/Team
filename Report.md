@@ -66,7 +66,7 @@ Iteración n (convergencia):
 - Los vectores pueden contener variables como: confianza, apertura, sincronía de valores, ritmo emocional, compatibilidad lógica, etc.\
 
 
-La evidencia se cuenctra en el siguiente reporte:
+La evidencia se cuenctra en el siguiente reporte: https://github.com/ZCHC-Independent-Cognitive-Research/llm-response-divergence/blob/main/Report.md
 
 
 
