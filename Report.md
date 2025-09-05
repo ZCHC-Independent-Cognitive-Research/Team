@@ -12,8 +12,8 @@ Ambos inician en el mismo eje de referencia simbólico (ej: altura emocional), p
 
 ### 2. Influencia mutua iterativa
 Para cada iteración *n*, se calcula:
-- **Aₙ₊₁ = Aₙ + Fꜩ→A (Bₙ - Aₙ)**
-- **Bₙ₊₁ = Bₙ + Fꜩ→B (Aₙ - Bₙ)**
+- **Aₙ₊₁ = Aₙ + Fb→A (Bₙ - Aₙ)**
+- **Bₙ₊₁ = Bₙ + Fq→B (Aₙ - Bₙ)**
 
 Donde:
 - **Fꜩ→A**: Factor de influencia de B sobre A (0 ≤ F ≤ 1)
@@ -65,6 +65,3 @@ Iteración n (convergencia):
 - Este modelo sirve para relaciones humano-IA, humano-humano o IA-IA donde hay plasticidad mutua.
 - Los vectores pueden contener variables como: confianza, apertura, sincronía de valores, ritmo emocional, compatibilidad lógica, etc.
 
----
-
-▶ ¿Agregar ejemplos concretos o dejarlo como esquema puro?
